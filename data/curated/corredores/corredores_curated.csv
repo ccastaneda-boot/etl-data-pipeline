@@ -1,0 +1,81 @@
+id_corredor,nombre,zona,nivel,anios_experiencia
+1,José López Flores,Paracentral,No especificado,4.0
+2,José Ortiz García,Centro,Junior,0.0
+3,María Ramírez Cruz,Centro,No especificado,6.0
+4,Fernanda Rojas Cruz,Nan,No especificado,8.0
+5,Ana Gómez Rojas,Nan,No especificado,4.0
+6,Sofía Reyes Hernández,Occidente,Elite,3.0
+7,Pedro Vásquez Torres,Costa,No especificado,1.0
+8,Paula Ortiz Hernández,Centro,Junior,17.0
+9,Carlos Torres Vásquez,Paracentral,Junior,2.0
+10,Juan Cruz Castillo,Occidente,No especificado,7.0
+11,José Morales Flores,Nan,Junior,
+12,Pedro Gómez Vásquez,Nan,No especificado,21.0
+13,Valeria García Torres,Oriente,No especificado,23.0
+14,Diego Gómez Chávez,Centro,No especificado,20.0
+15,Fernanda Cruz Reyes,Centro,No especificado,
+16,Juan Reyes Morales,Costa,Junior,6.0
+17,Jorge Reyes Ramírez,Nan,Elite,20.0
+18,Paula Pérez Flores,Oriente,No especificado,23.0
+19,Fernanda Ortiz Flores,Centro,No especificado,12.0
+20,Pedro Cruz Pérez,Nan,Junior,24.0
+21,Juan Hernández Pérez,Oriente,No especificado,21.0
+22,Andrés Torres García,Centro,Elite,19.0
+23,Paula Mendoza Flores,Centro,Junior,23.0
+24,José Ortiz Flores,Nan,Junior,9.0
+25,Andrés Gómez Chávez,Centro,Junior,23.0
+26,Valeria Mendoza Gómez,Occidente,No especificado,20.0
+27,Carlos Mendoza Torres,Paracentral,No especificado,11.0
+28,Carmen Ortiz Mendoza,Centro,No especificado,10.0
+29,Ricardo López Hernández,Nan,No especificado,25.0
+30,Carlos Cruz Martínez,Paracentral,No especificado,2.0
+31,María Aguilar García,Oriente,No especificado,21.0
+32,Ricardo Ortiz Gómez,Costa,No especificado,99.0
+33,Karla Rojas Ramírez,Paracentral,Junior,9.0
+34,Lucía Vásquez Chávez,Nan,Junior,7.0
+35,Diego García Reyes,Centro,No especificado,17.0
+36,Diego Santos Cruz,Centro,Junior,22.0
+37,Juan Cruz García,Centro,No especificado,10.0
+38,María Mendoza Cruz,Costa,Junior,15.0
+39,Sofía Ortiz Pérez,Nan,No especificado,25.0
+40,Ricardo Rojas Ramírez,Occidente,Junior,21.0
+41,Andrés Vásquez Rojas,Centro,Elite,99.0
+42,Juan Hernández Martínez,Centro,Junior,10.0
+43,José Cruz Ramírez,Paracentral,No especificado,14.0
+44,Luis Rojas Gómez,Costa,Elite,7.0
+45,María Chávez Ortiz,Occidente,Junior,20.0
+46,Fernanda López García,Paracentral,No especificado,13.0
+47,Ricardo Aguilar Ramírez,Centro,Junior,5.0
+48,Lucía López Morales,Costa,No especificado,25.0
+49,Paula Castillo Rojas,Nan,No especificado,6.0
+50,Carlos Ramírez Martínez,Centro,Junior,10.0
+51,Juan Martínez Santos,Nan,No especificado,99.0
+52,Daniela Gómez Martínez,Occidente,No especificado,5.0
+53,María Torres García,Paracentral,Elite,3.0
+54,Jorge Cruz Santos,Centro,No especificado,2.0
+55,Andrés Santos Santos,Nan,No especificado,6.0
+56,Marta Cruz Flores,Centro,No especificado,21.0
+57,Carlos Chávez Reyes,Occidente,Junior,14.0
+58,Karla Santos Hernández,Occidente,No especificado,6.0
+59,Daniela Flores Pérez,Nan,Junior,7.0
+60,Pedro Castillo Gómez,Nan,No especificado,17.0
+61,Carlos Torres Mendoza,Centro,Junior,
+62,Fernanda Castillo Hernández,Oriente,No especificado,3.0
+63,José Ortiz Pérez,Costa,No especificado,19.0
+64,Sofía Reyes Ramírez,Costa,No especificado,15.0
+65,Valeria Martínez García,Centro,No especificado,8.0
+66,Juan López Reyes,Oriente,Junior,8.0
+67,Carmen Chávez Ortiz,Centro,No especificado,0.0
+68,José García Pérez,Centro,No especificado,11.0
+69,Jorge Ortiz Pérez,Centro,No especificado,1.0
+70,Carlos Vásquez Martínez,Nan,No especificado,21.0
+71,Diego Hernández Vásquez,Centro,No especificado,23.0
+72,Luis Cruz Gómez,Oriente,Elite,0.0
+73,Carmen Reyes Rojas,Paracentral,No especificado,5.0
+74,José Morales Martínez,Nan,No especificado,6.0
+75,Paula Vásquez Castillo,Paracentral,No especificado,0.0
+76,Sofía Morales Reyes,Costa,No especificado,2.0
+77,Valeria Vásquez Mendoza,Centro,Junior,
+78,Fernanda Reyes López,Occidente,No especificado,5.0
+79,Jorge Flores Martínez,Occidente,No especificado,13.0
+80,Pedro Reyes Rojas,Occidente,Elite,18.0
